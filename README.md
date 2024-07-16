@@ -1,6 +1,7 @@
 1. Observation of people accepting the coupon
 
-1.1 By plotting histogram of coupon accepted w.r.t to passanger, weather condition, and destination large number of coupons were accepted with passanger is alone, destination is not urgent and weather is sunny. (passenger.png, destination.png and weather.png)
+1.1 By plotting histogram of coupon accepted w.r.t to passanger, weather condition, direction and destination large number of coupons were accepted with passanger is alone, destination is not urgent, direction is same and weather is sunny. (passenger.png, destination.png, direction.png and weather.png)
+
 1.2 Coupon accept rate doesn't change much w.r.t to gender as observed in gender.png
 
 2. Observation of people accepting "coffee house" coupon.
