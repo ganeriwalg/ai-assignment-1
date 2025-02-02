@@ -1,11 +1,19 @@
-1. Observation of people accepting the coupon
-
-1.1 By plotting histogram of coupon accepted w.r.t to passanger, weather condition, direction and destination large number of coupons were accepted with passanger is alone, destination is not urgent, direction is same and weather is sunny. (passenger.png, destination.png, direction.png and weather.png)
-
-1.2 Coupon accept rate doesn't change much w.r.t to gender as observed in gender.png
-
-1.3 By grouping maritalStatus and coupon accept column (Y), I find probability of accepting coupon is more for single and married partnet.
-
-2. Observation of people accepting "coffee house" coupon.
-
-2.1 If a coffee house is near, probablity of accepting the coffee house coupon is more. (coffee.png)
+56.9% of customers accepted the coupon.
+From plot with title- 'Total Coupons Issued- by type’ we see there are 5 types of coupons which are issued with maximum number of coupon issue were of type ‘Coffee house’
+From plot with title- 'Count of Coupons accepted- by coupon type’ and subsequent calculation done, we see maximum coupon accepted were of type- Restaurant(<20) and Carry out & Take away with acceptance percentage of more than 70%
+From plot with title- 'Coupon acceptance by gender’ we see equal acceptance of coupon w.r.t gender however male customer accepted more ’ bar’ coupons
+Coupon acceptance by eduation-
+We see coupon total population has 6 types of education classes with 'Some High School’ has lower percentage (0.7%) representation 
+In plot with title- 'Coupon Utilization by Education Attainment’, we see maximum copouns were accepted with education- High School Graduate with close to 60% acceptance
+Even tough 'Some High School' has higher percentage of acceptance but 'Some High School' contributed less to the total population (0.7%)
+Bar coupon type
+Percentage of total bar coupon accepted is 41%
+Total observations of Bar visitors (3 or Fewer visits/month) accepting coupons: 37.1%
+Total observations of Bar visitors (3 or Fewer visits/month) accepting coupons: 37.1%
+Total observations of Male Bar visitors (3 or Fewer visits/month) accepting coupons is 62.8%
+Total observations vistor with age more than 25 and Bar visitors (3 or Fewer visits/month) accepting coupons is 62.2%
+Total observations with no Kids and in not in farming and fishing and Bar visitors (3 or Fewer visits/month) accepting coupons is 62.3%
+Coupon class data
+Visitor with coming with Friends and alone with age less than 25 and not going to urgent destination place accepts more Coffee and Resturant coupon
+From plot- Restaurant(<20) Coupon accepted by age and gender we see more young visitor are accepting coupon of Resultant(<20) type
+From plot- Coffee house coupon accepted by age w.r.t weather we see Coffee House coupon is accepted more when weather is Sunny
